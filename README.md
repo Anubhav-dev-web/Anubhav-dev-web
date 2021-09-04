@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anubhav-dev-web
+- 👋 Hi, I’m @Anubha
 - 👀 I’m interested in hacking, web development
 - 🌱 I,m a newbie()
 - 📫 How to reach me : lucimgstar007@gmail.com

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anubhav
-- 👀 I’m interested in hacking, web development
-- 🌱 I,m a newbie()
+- 👀 I’m interested in web development
+- 🌱 I,m a Ract develper
 - 📫 How to reach me : lucimgstar007@gmail.com
 
 <!---

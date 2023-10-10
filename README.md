@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anubhav
 - 👀 I’m interested in web development
-- 🌱 I,m a React develper
+- 🌱 I'm a React develper
 - 📫 How to reach me : lucimgstar007@gmail.com
 
 <!---

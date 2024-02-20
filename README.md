@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Anubhav!
+# 👋 Hey , I'm Anubhav!
 
 I'm a Web developer, passionate about how the web works. Welcome to my GitHub profile!
 

@@ -17,14 +17,6 @@ I'm a Web developer, passionate about how the web works. Welcome to my GitHub pr
 - Database: MongoDB
 - Version Control: Git,
 
-## Projects
-
-Here are some of my noteworthy projects:
-
-- Summarizer ([Live Project](https://sumzz-ai.netlify.app)): An Article summarization web App
-- EvoGym ([Live project ](https://mygymapp.netlify.app/)): A gym website mostly frontend
-
-
 ## Connect with Me
 
 LinkedIn ([www.linkedin.com/in/anubhav-verma-g64](www.linkedin.com/in/anubhav-verma-g64))

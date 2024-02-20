@@ -11,7 +11,7 @@ I'm a Web developer, passionate about how the web works. Welcome to my GitHub pr
 
 ## Tech Stack
 
-- Programming Languages: JavaScript, Java, typescript, C++ ]
+- Programming Languages: JavaScript, Java, typescript, C++ 
 - Frontend: HTML, CSS, JavaScript, React, Tailwind, GSAP, Redux 
 - Backend: Express, Nodejs, REST APIs, 
 - Database: MongoDB

@@ -1,22 +1,34 @@
-### 👋 Hi, I’m @Anubhav
+# 👋 Hello, I'm Anubhav!
 
-- 👀 I’m a full stack Web Developer
+I'm a Web developer, passionate about how the web works. Welcome to my GitHub profile!
 
-- 🌱 I'm a React developer
+## About Me
 
-- 📫 How to reach me: lucimgstar007@gmail.com
-
-
-
- 
+- 🎓 Currently a final year student in computer science major.
+- 💻 I'm proficient in MERN stack, including Java, JavaScript, and C++.
+- 🌱 I’m currently learning advanced frontend.
 
 
+## Tech Stack
 
-<!---
+- Programming Languages: JavaScript, Java, typescript, C++ ]
+- Frontend: HTML, CSS, JavaScript, React, Tailwind, GSAP, Redux 
+- Backend: Express, Nodejs, REST APIs, 
+- Database: MongoDB
+- Version Control: Git,
 
-Anubhav-dev-web/Anubhav-dev-web is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
 
-You can click the Preview link to take a look at your changes.
+Here are some of my noteworthy projects:
 
---->
+- Summarizer ([link](https://sumzz-ai.netlify.app)): An Article summarization web App
+- EvoGym ([link](https://mygymapp.netlify.app/)): A gym website mostly frontend
 
+
+## Connect with Me
+
+LinkedIn ([link](www.linkedin.com/in/anubhav-verma-g64))
+Email : ([link](lucimgstar007@gmail.com))
+
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities!

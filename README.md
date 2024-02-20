@@ -9,7 +9,7 @@ I'm a Web developer, passionate about how the web works. Welcome to my GitHub pr
 - 🌱 I’m currently learning advanced frontend.
 
 
-## Tech Stack
+## Tech Stack ⚙
 
 - Programming Languages: JavaScript, Java, typescript, C++ 
 - Frontend: HTML, CSS, JavaScript, React, Tailwind, GSAP, Redux 
@@ -17,10 +17,5 @@ I'm a Web developer, passionate about how the web works. Welcome to my GitHub pr
 - Database: MongoDB
 - Version Control: Git,
 
-## Connect with Me
-
-LinkedIn ([www.linkedin.com/in/anubhav-verma-g64](www.linkedin.com/in/anubhav-verma-g64))
-Email : ([lucimgstar007@gmail.com](lucimgstar007@gmail.com))
-
-
+## Connect with Me 📡
 Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities!

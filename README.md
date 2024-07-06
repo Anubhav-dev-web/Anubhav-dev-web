@@ -13,9 +13,9 @@ I'm a Web developer, passionate about how the web works. Welcome to my GitHub pr
 
 - Programming Languages: JavaScript, Java, typescript, C++ 
 - Frontend: HTML, CSS, JavaScript, React, Tailwind, GSAP, Redux 
-- Backend: Express, Nodejs, REST APIs, 
-- Database: MongoDB
-- Version Control: Git,
+- Backend: Express, Nodejs, REST APIs, JWT, passport.js . 
+- Database: MongoDB, SQL.
+- Tools: Git, GitHub, SWR Hooks, Tanstack, Firebase.
 
 ## Connect with Me 📡
 Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities!

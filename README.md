@@ -4,9 +4,9 @@ I'm a Web developer, passionate about how the web works. Welcome to my GitHub pr
 
 ## About Me
 
-- 🎓 Currently a final year student in computer science major.
+- 🎓 Graduation in Computer Science and Engineering.
 - 💻 I'm proficient in MERN stack, including Java, JavaScript, and C++.
-- 🌱 I’m currently learning advanced frontend.
+- 🌱 I’m currently learning more new tech in the market.
 
 
 ## Tech Stack ⚙

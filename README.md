@@ -71,7 +71,7 @@ I enjoy working across the analytics lifecycle — from data extraction, cleanin
 
 I'm always interested in connecting with data professionals, learning from new challenges, and collaborating on meaningful analytics projects.
 
-- 💼 **LinkedIn:** [Connect with me]([https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/anubhav-verma-g64/))
+- 💼 **LinkedIn:** [Connect with me]((https://www.linkedin.com/in/anubhav-verma-g64/))
 - 📧 **Email:** anubhavv2002@gmail.com
 
 

@@ -71,10 +71,7 @@ I enjoy working across the analytics lifecycle — from data extraction, cleanin
 
 I'm always interested in connecting with data professionals, learning from new challenges, and collaborating on meaningful analytics projects.
 
-- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-- 📧 **Email:** YOUR_EMAIL@example.com
-- 🐙 **GitHub:** [Explore my repositories](https://github.com/YOUR_USERNAME)
+- 💼 **LinkedIn:** [Connect with me]([https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/anubhav-verma-g64/))
+- 📧 **Email:** anubhavv2002@gmail.com
 
-**"Good data analysis doesn't just explain what happened — it helps businesses decide what to do next."**
 
-⭐ If you find my projects useful, feel free to explore my repositories and share your feedback!
